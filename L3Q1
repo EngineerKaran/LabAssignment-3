@@ -1,0 +1,3 @@
+n=int(input("Kindly enter a number:"))
+a=bin(n)
+print(a)
